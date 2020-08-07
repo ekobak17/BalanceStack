@@ -1,6 +1,5 @@
 /*
 * Ellie Kobak
-* Project 6: exercise stack
 * usage: ./exercise Stack [file]
 */
 
