@@ -1,6 +1,5 @@
 /*
 * Ellie Kobak
-* Project 6: balance check
 * usage: 
 */
 
